@@ -2,5 +2,6 @@ I have reading [this book](https://www.amazon.co.jp/React%E3%83%93%E3%82%AE%E3%8
 
 <br>
 <br>
-add repository
-[cauli-flowers/react_beginner](https://github.com/cauli-flowers/react_beginner)
+add repository<br>
+
+[react_beginner](https://github.com/cauli-flowers/react_beginner/)
